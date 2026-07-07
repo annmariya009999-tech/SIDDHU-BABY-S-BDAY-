@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Maryuma",
-  photo: "./img/IMG-20260516-WA0060.jpg",       // Place your photo in the img/ folder
+  name: "Siddhu",
+  photo: "./img/IMG_20260512_222057_384.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder.
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really luv your name btw!",
+      subtitle: "I really loveee you btw!",
     },
     {
       type: "countdown",
@@ -80,14 +80,14 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special(Specially Abled) <span>:)</span>",
+        "You are Special <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "I love you Maryumaa, mwahhh.",
-      author: "JJ",
+      text: "I love you Chakkare, ummmaaaaa.",
+      author: "Annie",
     },
     {
       type: "stars",
